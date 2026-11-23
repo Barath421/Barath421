@@ -1,7 +1,3 @@
-from pathlib import Path
-
-content = """# Hi 👋, I'm Barath
-
 ### 🚀 Aspiring DevOps Engineer | Cloud Computing Enthusiast | Software Developer
 
 I'm a Computer Science and Engineering student passionate about **Cloud Computing, DevOps, Automation, and Software Development**. I enjoy learning new technologies, building practical projects, and exploring ways to automate and optimize software development and deployment workflows.
